@@ -44,7 +44,13 @@ this is one of my favourite ways to add unverified apps through linux. it is a v
 if you press the home button a folder shoud show up saying linux apps.
 click the app you just downloaded and boom
 (disclaimer! using ppsspp doesnt work on school wifi but most of the other emulators do. Enjoy!)
+##    
 
+# LTBEEF
+ 
+LTBEEF is a powerful bookmarklet (a javascript bookamrk) that can disable filter exstensions made by our schools.
+1 Copy the Javascript code ## 
+    javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
 
 
 
