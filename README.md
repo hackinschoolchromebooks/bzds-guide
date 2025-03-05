@@ -21,3 +21,24 @@ Look for your filter extension on the list. If it isn't there, toggle on develop
 Click the "disable" button next to the extension.
 Follow the directions on the popup window. You'll need to do it very quickly otherwise it will not work.
 Enjoy! If the extension switches back on, increase the iframe slider in settings.
+##
+
+Flathub/linux setup
+
+
+this is one of my favourite ways to add unverified apps through linux. it is a very powerful terminal if everything is used corectly!
+
+1. schools are dumb enough to allow linux terminals so go to your settings, scroll down to about chromeos then navigate to linux
+![Screenshot 2025-03-04 8 30 05 PM](https://github.com/user-attachments/assets/1fdeef3a-8321-442c-9cea-25d00b999fd5)
+2. make sure you download the app fully before opening.
+3. open the terminal and write         sudo apt upgrade
+
+
+
+
+
+
+
+
+
+
