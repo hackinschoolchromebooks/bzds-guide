@@ -57,7 +57,7 @@ LTBEEF is a powerful bookmarklet (a javascript bookamrk) that can disable filter
 3. paste the javascript in the URL section.
 ![Screenshot 2025-03-05 12 57 51 PM](https://github.com/user-attachments/assets/a918feee-ba33-44df-aba6-f7d90f044225)
 4. go to
-   ##
+   
    https://chrome.google.com/webstorex
     (its a 404 i know)
    5. now click the ltbeef and toggle your filter extension. boom enjoy!
