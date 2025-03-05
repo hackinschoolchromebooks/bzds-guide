@@ -20,8 +20,8 @@ Copy and open this link:
 look for your filter exstenison. 
 then click the disable button and wait a bit. 
 you will experience lag (thats normal you are sending thousands of iframes.)
-then go to chrome://extensions/ and find your exstension you just disabled. make sure to toggle developer mode. now scroll down and turn off the pin to toolbar and you know have succesfully killed the first id of your filter exstensions. 
-![Screenshot 2025-03-05 9 33 02 AM](https://github.com/user-attachments/assets/8638369d-bb13-4669-b05d-ab9e7249b533)
+then go to chrome://extensions/ and find your exstension you just disabled. make sure to toggle developer mode. now scroll down and turn off the pin to toolbar![Screenshot 2025-03-05 9 33 02 AM](https://github.com/user-attachments/assets/ed3ad304-738e-4d73-a019-e7fa316ff527)
+ and you know have succesfully killed the first id of your filter exstensions. 
 now you can toggle the buttons (go to the settings and turn up the iframes and the pin to toolbar wil stay off for longer
 ##
 
