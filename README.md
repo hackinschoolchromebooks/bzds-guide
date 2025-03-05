@@ -53,8 +53,16 @@ LTBEEF is a powerful bookmarklet (a javascript bookamrk) that can disable filter
 ## 
     
     javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
-
-
+2. make a new bookmark
+3. paste the javascript in the URL section.
+![Screenshot 2025-03-05 12 57 51 PM](https://github.com/user-attachments/assets/a918feee-ba33-44df-aba6-f7d90f044225)
+4. go to
+   ##
+   https://chrome.google.com/webstorex
+    (its a 404 i know)
+   5. now click the ltbeef and toggle your filter extension. boom enjoy!
+![Screenshot 2025-03-05 1 00 50 PM](https://github.com/user-attachments/assets/8e26eb22-a6f7-41d8-91af-178fce6da294)
+some schools ban javascript, so when you click your  bookmarklet nothing will hapen you can check through chromepollicies
 
 
 
