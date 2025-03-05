@@ -49,7 +49,9 @@ click the app you just downloaded and boom
 # LTBEEF
  
 LTBEEF is a powerful bookmarklet (a javascript bookamrk) that can disable filter exstensions made by our schools.
-1 Copy the Javascript code ## 
+1 Copy the Javascript code:
+## 
+    
     javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
 
 
