@@ -3,7 +3,7 @@
 
 
 
-Welcome to the helping-you-beatschoolchromebooks! pretty much crushing school chromebooks
+Welcome to the helping-you-beatschoolchromebooks! pretty much crushing school chromebooks. support me by subbing to my channel
 
 
 
@@ -11,7 +11,7 @@ Welcome to the helping-you-beatschoolchromebooks! pretty much crushing school ch
 
 # extprint3r 
 
-extprint3r is a powerful website which generates a massive amount of iframes and sends it to filter extensions. the iframes confuse the extension and allow you to toggle buttons that weren't pressable before.
+extprint3r is a powerful website that generates massive amounts of iframes and sends them to filter extensions. the iframes confuse the extension and allow you to toggle buttons that weren't pressable before.
 ![Screenshot 2025-03-04 8 24 31 PM](https://github.com/user-attachments/assets/fc9ebec4-ac8d-4c92-9f52-5b387aa9fe92)
 
 Copy and open this link:
