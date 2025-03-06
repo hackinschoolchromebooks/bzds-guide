@@ -36,7 +36,7 @@ this is one of my favourite ways to add unverified apps through linux. it is a v
 2. make sure you download the app fully before opening.
 3. click the penguin and paste in: sudo apt upgrade
 4. then write: sudo apt install flathub
-5. paste ##
+5. paste 
 6.     flatpak --user remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 7. go to https://flathub.org/ and browse apps
 8. click the big blue button pointing downwards.
