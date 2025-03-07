@@ -3,7 +3,7 @@
 
 
 
-Welcome to the helping-you-beatschoolchromebooks! pretty much crushing school chromebooks. support me by subbing to my channel
+Welcome to the helping-you-beatschoolchromebooks! pretty much crushing school chromebooks. support me by subbing to my channel thegreatremover18
 
 
 
@@ -77,6 +77,12 @@ KEEP IN MIND THAT THIS WILL POWER WASH YOUR CHROMEBOOK SO IF YOU DON'T SAVE THIN
 4. Confirm you want to transition to dev mode by again pressing the Ctrl-D keys.
 boom your done
 
- now every time you open your chrome book it will give you a warning just pres ctrl-d
+ now every time you open your chrome book it will give you a warning just press ctrl-d
+
+
+ # xray bookmarklet
+ first copy this ## 
+   javascript:(function () {var script=document.createElement('script');script.src='https://x-ray-goggles.mouse.org/webxray.js';script.className='webxray';script.setAttribute('data-lang','en-US');script.setAttribute('data-baseuri','https://x-ray-goggles.mouse.org');document.body.appendChild(script);}())
+
 
 
