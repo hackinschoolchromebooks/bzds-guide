@@ -66,14 +66,17 @@ LTBEEF is a powerful bookmarklet (a javascript bookamrk) that can disable filter
 some schools ban javascript, so when you click your  bookmarklet nothing will hapen you can check through chromepollicies
 ##
 # developer mode
-one of the easiest things to do. it allows you to have better control over your Chromebook, allowing you to install Linux, run alternative operating systems, and push the boundaries of what your device can do.
+one of the easiest things to do. it allows you to have better control over your Chromebook, allowing you to install Linux, run alternative operating systems, and push the boundaries of what your device can do. 
 
+KEEP IN MIND THAT THIS WILL POWER WASH YOUR CHROMEBOOK SO IF YOU DON'T SAVE THINGS TO YOUR DRIVE THEY MAY NOT SAVE 
 
-1.Press Esc-Refresh-Power keys which will reboot the Chromebook.
+1.Press Esc-Refresh-Power or pres the ctrl-alt-shift-r keys which will reboot the Chromebook.
 2. When the warning screen comes up, press the Ctrl-D keys.![download](https://github.com/user-attachments/assets/2fdc6367-2bee-49f9-9131-bf291d3e2c4a)
 
 3. Confirm you want to turn "OS Verification off" by pressing the Enter key.
 4. Confirm you want to transition to dev mode by again pressing the Ctrl-D keys.
 boom your done
+
+ now every time you open your chrome book it will give you a warning just pres ctrl-d
 
 
