@@ -84,6 +84,12 @@ boom your done
 Copy and open this link:
 ## 
     javascript:(function () {var script=document.createElement('script');script.src='https://x-ray-goggles.mouse.org/webxray.js';script.className='webxray';script.setAttribute('data-lang','en-US');script.setAttribute('data-baseuri','https://x-ray-goggles.mouse.org');document.body.appendChild(script);}())
+   1.add a new bookmark
+   2. paste the javascript into the url part
+   3. now click on your new bookmark
+
+![Screenshot 2025-03-07 9 58 36 AM](https://github.com/user-attachments/assets/aac0603c-083d-401d-bea0-caa7c06e2093)
+im still experemanting on this new javascript viewer
 
 
 
