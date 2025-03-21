@@ -90,6 +90,14 @@ Copy and open this link:
 
 ![Screenshot 2025-03-07 9 58 36 AM](https://github.com/user-attachments/assets/aac0603c-083d-401d-bea0-caa7c06e2093)
 im still experemanting on this new javascript viewer
+##
+# SALINEWIN.EXE
+![download](https://github.com/user-attachments/assets/0776ba30-faed-4aed-8f7a-038e14edd312)
+
+
+the most powerful malaware known to chrome os. 
+https://github.com/pankoza2-pl/salinewin.exe-Malware
+(i am not responsible for any damages done to your computer
 
 
 
