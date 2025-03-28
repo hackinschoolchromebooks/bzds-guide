@@ -1,4 +1,4 @@
-# helping-you-beatschoolchromebooks
+# helping-you-beatschoolchromebooks  some items may be out of date 
 
 
 
