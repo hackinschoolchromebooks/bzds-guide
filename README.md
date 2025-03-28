@@ -44,6 +44,7 @@ this is one of my favourite ways to add unverified apps through linux. it is a v
 10. go to https://flathub.org/ and browse apps
 11. click the big blue button pointing downwards.
 12. copy the first script and paste it into the terminal (linux)
+13. make sure you click the arrow next to the download button 
 ![Screenshot 2025-03-05 9 23 14 AM](https://github.com/user-attachments/assets/de62cd8e-006d-4096-b845-611c450384bf)
 if you press the home button a folder shoud show up saying linux apps.
 click the app you just downloaded and boom
